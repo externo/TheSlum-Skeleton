@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TheSlum.Interfaces;
 
-namespace TheSlum
+namespace TheSlum.Bonus
 {
     class Injection: Bonus, ITimeoutable
     {

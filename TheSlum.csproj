@@ -40,19 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Axe.cs" />
-    <Compile Include="Bonus.cs" />
-    <Compile Include="Character.cs" />
+    <Compile Include="Item\Axe.cs" />
+    <Compile Include="Bonus\Bonus.cs" />
+    <Compile Include="Character\Character.cs" />
     <Compile Include="GameEngine\Engine.cs" />
     <Compile Include="GameObject.cs" />
-    <Compile Include="Injection.cs" />
+    <Compile Include="Bonus\Injection.cs" />
     <Compile Include="Interfaces\IAttack.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Interfaces\ITimeoutable.cs" />
-    <Compile Include="Item.cs" />
-    <Compile Include="Pill.cs" />
+    <Compile Include="Item\Item.cs" />
+    <Compile Include="Bonus\Pills.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Shield.cs" />
+    <Compile Include="Item\Shield.cs" />
     <Compile Include="Team.cs" />
     <Compile Include="Warrior.cs" />
   </ItemGroup>

@@ -3,3 +3,6 @@ F:\Downloads\6. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Deb
 F:\Downloads\6. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
 F:\Downloads\6. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
 F:\Downloads\6. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+F:\VisualStudio\C#\6.-Encapsulation-and-Polymorphism-Demos\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache

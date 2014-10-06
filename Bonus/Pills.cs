@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheSlum
+namespace TheSlum.Bonus
 {
-    class Pill: Bonus
+    class Pills: Bonus
     {
-        internal Pill(string id="pill", int healthEffect = 200, int defenseEffect=0, int attackEffect = 100)
+        internal Pills(string id="pill", int healthEffect = 200, int defenseEffect=0, int attackEffect = 100)
             : base(id, healthEffect, defenseEffect, attackEffect) 
         {
             this.Countdown = 1;

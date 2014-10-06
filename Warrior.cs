@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TheSlum.Interfaces;
+using TheSlum.Item;
 
 namespace TheSlum
 {
@@ -44,7 +45,6 @@ namespace TheSlum
         }
         public override Character GetTarget(IEnumerable<Character> targetsList);
         {
-            return targetsList.First();
         }
     }
 }

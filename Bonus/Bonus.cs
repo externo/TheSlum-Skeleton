@@ -1,7 +1,7 @@
 ﻿using System;
 using TheSlum.Interfaces;
 
-namespace TheSlum
+namespace TheSlum.Bonus
 {
     public abstract class Bonus : Item, ITimeoutable
     {
